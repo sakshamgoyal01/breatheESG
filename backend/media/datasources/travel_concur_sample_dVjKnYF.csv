@@ -1,0 +1,13 @@
+employee_id,employee_name,trip_id,expense_type,travel_date,origin,destination,origin_iata,dest_iata,travel_class,vendor,amount,currency,hotel_nights,distance_km
+EMP001,Rahul Sharma,TRIP1001,AIRFARE,2026-01-05,Mumbai,Delhi,BOM,DEL,Economy,IndiGo,8500,INR,,
+EMP002,Priya Mehta,TRIP1002,AIRFARE,2026-01-07,Mumbai,London,BOM,LHR,Business,British Airways,185000,INR,,
+EMP003,Amit Verma,TRIP1003,HOTEL,2026-01-08,Delhi,Delhi,,,,"Taj Palace",24000,INR,3,
+EMP004,Sneha Kapoor,TRIP1004,TAXI,2026-01-10,Bangalore,Bangalore,,,,"Uber",950,INR,,
+EMP005,Karan Joshi,TRIP1005,CARRENT,2026-01-11,Pune,Mumbai,,,,"Zoomcar",4200,INR,,
+EMP006,Neha Arora,TRIP1006,AIRFARE,2026-01-12,Delhi,Singapore,DEL,SIN,Economy,Singapore Airlines,72000,INR,,
+EMP007,Rohit Nair,TRIP1007,HOTEL,2026-01-13,London,London,,,,"Hilton",56000,INR,5,
+EMP008,Ananya Das,TRIP1008,AIRFARE,2026-01-15,Chennai,Dubai,MAA,DXB,First,Emirates,132000,INR,,
+EMP009,Vikas Jain,TRIP1009,TAXI,2026-01-16,Delhi,Gurgaon,,,,"Ola",780,INR,,
+EMP010,Simran Gill,TRIP1010,AIRFARE,2026-01-18,Mumbai,Bangalore,BOM,BLR,Economy,Air India,6400,INR,,
+EMP011,Arjun Rao,TRIP1011,AIRFARE,2026-01-20,Delhi,Unknown,DEL,ZZZ,Economy,IndiGo,5800,INR,,
+EMP012,Isha Khanna,TRIP1012,HOTEL,2026-01-22,Singapore,Singapore,,,,"Marina Bay Sands",88000,INR,4,

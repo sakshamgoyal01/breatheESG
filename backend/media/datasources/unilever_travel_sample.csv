@@ -1,0 +1,9 @@
+employee_id,employee_name,trip_id,expense_type,travel_date,origin,destination,origin_iata,dest_iata,travel_class,vendor,amount,currency,hotel_nights,distance_km
+EMP001,Rahul Sharma,TRIP1001,AIRFARE,2026-01-04,Delhi,Mumbai,DEL,BOM,ECONOMY,IndiGo,12500,INR,0,1148
+EMP002,Anita Verma,TRIP1002,HOTEL,2026-01-06,Mumbai,Mumbai,BOM,BOM,BUSINESS,Marriott,22000,INR,3,0
+EMP003,Suresh Iyer,TRIP1003,AIRFARE,2026-01-09,Mumbai,Bangalore,BOM,BLR,BUSINESS,Air India,18500,INR,0,842
+EMP004,Priya Nair,TRIP1004,GROUND_TRANSPORT,2026-01-12,Bangalore,Bangalore,BLR,BLR,ECONOMY,Uber,1200,INR,0,15
+EMP005,Arjun Mehta,TRIP1005,AIRFARE,2026-01-14,Delhi,Chennai,DEL,MAA,ECONOMY,Vistara,14200,INR,0,1760
+EMP006,Neha Kapoor,TRIP1006,HOTEL,2026-01-17,Chennai,Chennai,MAA,MAA,BUSINESS,Taj Hotels,18000,INR,2,0
+EMP007,Rohan Das,TRIP1007,AIRFARE,2026-01-20,Bangalore,Hyderabad,BLR,HYD,ECONOMY,IndiGo,8900,INR,0,500
+EMP008,Karan Singh,TRIP1008,GROUND_TRANSPORT,2026-01-22,Delhi,Delhi,DEL,DEL,ECONOMY,Ola,900,INR,0,10
